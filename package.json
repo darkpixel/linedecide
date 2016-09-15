@@ -1,0 +1,23 @@
+{
+  "name": "linedecide",
+  "version": "0.0.1",
+  "description": "Read from STDIN and split lines into two files based on interactive user input",
+  "main": "linedecide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkpixel/linedecide.git"
+  },
+  "keywords": [
+    "split",
+    "line"
+  ],
+  "author": "Aaron C. de Bruyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkpixel/linedecide/issues"
+  },
+  "homepage": "https://github.com/darkpixel/linedecide#readme"
+}
