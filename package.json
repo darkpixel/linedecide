@@ -1,7 +1,7 @@
 {
   "name": "linedecide",
   "version": "0.0.2",
-  "description": "Read from STDIN and split lines into two files based on interactive user input",
+  "description": "Read from a file and split each individual line in to one of two files based on interactive user input",
   "main": "linedecide.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
