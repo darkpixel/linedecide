@@ -1,6 +1,6 @@
 {
   "name": "linedecide",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Read from a file and split each individual line in to one of two files based on interactive user input",
   "main": "linedecide.js",
   "scripts": {
